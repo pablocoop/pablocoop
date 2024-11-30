@@ -29,11 +29,10 @@ Some of the topics I'm interested in:
 
 ## 📚 Libraries 📚
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![sklearn](https://img.shields.io/badge/sklearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Pyglet](https://img.shields.io/badge/Pyglet-FA8072?style=for-the-badge&logo=pyglet&logoColor=white)
+![Pyglet](https://img.shields.io/badge/Pyglet-FA8072?style=for-the-badge&logo=static/images/pyglet.png?h=fb5623cc)
 
 ## 💾 Tools 💾
 ![Linux](https://img.shields.io/badge/Linux-E95420?style=for-the-badge&logo=linux&logoColor=white)
@@ -44,7 +43,6 @@ Some of the topics I'm interested in:
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 <!--
 **pablocoop/pablocoop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
