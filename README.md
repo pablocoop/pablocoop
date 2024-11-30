@@ -15,6 +15,12 @@ Some of the topics I'm interested in:
 - 🧠 Artificial Intelligence
 - 📊 Data Science
 
+## 💡 Repositories[WIP] 💡
+Some important repositories of projects I've worked on:
+- 
+-
+-
+
 ## 💻 Tech Stack 💻
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
