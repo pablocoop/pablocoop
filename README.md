@@ -22,7 +22,7 @@ Some of the topics I'm interested in:
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Typst]()
+![Typst](https://img.shields.io/badge/Typst-00BFFF?style=for-the-badge&logo=typst&logoColor=white)
 ![Tex/LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
@@ -33,6 +33,7 @@ Some of the topics I'm interested in:
 ![SciPy](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![Pyglet](https://img.shields.io/badge/Pyglet-FA8072?style=for-the-badge&logo=pyglet&logoColor=white)
 
 ## 💾 Tools 💾
 ![Linux](https://img.shields.io/badge/Linux-E95420?style=for-the-badge&logo=linux&logoColor=white)
