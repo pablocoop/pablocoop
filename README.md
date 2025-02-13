@@ -51,7 +51,7 @@ Some important repositories of projects I've worked on:
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-05122A?style=for-the-badge&logo=xampp&logoColor=white)
+![XAMPP](https://img.shields.io/badge/-XAMPP-05122A?style=for-the-badge&logo=xampp&logoColor=white)
 
 <!--
 **pablocoop/pablocoop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
