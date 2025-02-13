@@ -31,7 +31,7 @@ Some important repositories of projects I've worked on:
 ![Typst](https://img.shields.io/badge/Typst-00BFFF?style=for-the-badge&logo=typst&logoColor=white)
 ![Tex/LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-2e2e2e?logo=laravel)
+![Laravel](https://img.shields.io/badge/Laravel-v10-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 
 ## 📚 Libraries 📚
