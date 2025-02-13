@@ -24,7 +24,7 @@ Some important repositories of projects I've worked on:
 ## 💻 Tech Stack 💻
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-14354C?style=for-the-badge&logo=php&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-3776AB?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://github.com/TheMilanMiracle/TheMilanMiracle/assets/128413050/8697c546-ea82-4b01-8450-8a32ef8064c5)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
