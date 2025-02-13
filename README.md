@@ -2,7 +2,7 @@
 
 ## 💬 About me 🗨️
 
-I am Pablo Osorio (pablocoop), a 21 y.o. Computer Science Engineering student, currently studying at [Universidad de Chile](https://uchile.cl), [FCFM](https://ingenieria.uchile.cl), within the [CS Department](https://www.dcc.uchile.cl).
+I am Pablo Osorio (aka pablocoop), a 21 y.o. Computer Science Engineering student, currently studying at [Universidad de Chile](https://uchile.cl), [FCFM](https://ingenieria.uchile.cl), within the [CS Department](https://www.dcc.uchile.cl).
 
 
 
